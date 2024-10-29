@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$znIGs87kRB0TaHDRHE6sIOFuz4MV7xeK1w5jZoQ4m1l7DhkRCuDhu",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "ramer17845@duiter.com",
+      "password": "$2a$10$t6Bzo85tznlbC6gCIuRFpu44wOERku9KwFLGzCF6V0iafHRSvV//y",
+      "name": "Abdurahmon",
+      "id": 2
+    },
+    {
+      "email": "abdurahmon97v@gmail.com",
+      "password": "$2a$10$J/uuBR7mWy4shVrJ7pBHJ.t3su3/ZWglFjKd6vLfStQbpLkZwlvTS",
+      "name": "Abdurahmon2",
+      "id": 3
+    },
+    {
+      "email": "nilufarsalimova2000@gmail.com",
+      "password": "$2a$10$DDQevuSx6kFQ0wZX85T2dOafKItmW0Y6nYrjyIPoVy5IbRDWBIwNS",
+      "name": "Nilufar",
+      "id": 4
+    },
+    {
+      "email": "nilufar2000@gmail.com",
+      "password": "$2a$10$t/c65oLQUWL7sHeIUP20R.HcR2MCGkXzzfIhW7fJGRIHovAcAyzry",
+      "name": "nilufar",
+      "id": 5
+    },
+    {
+      "email": "nilufar2110@gmail.com",
+      "password": "$2a$10$PtrK.Sg/5lclua4ic75DJeVy63mnic7zOYOO0wT51WciVx2AkEkVe",
+      "name": "nilufar",
+      "id": 6
+    },
+    {
+      "email": "nilufar@gmail.com",
+      "password": "$2a$10$1uyiKVCo0/xa4XXtH8P6V.sHjvJbGACfkTnm4WyqeQXE874vaK9Iy",
+      "name": "nilu",
+      "id": 7
+    },
+    {
+      "email": "nilusal@gmail.com",
+      "password": "$2a$10$16b/C9HqhLYPgwQ6sfKtpOey74Cbhw7SWM0xDMhsxTVKs0iPdtsDu",
+      "name": "nilufar",
+      "id": 8
+    },
+    {
+      "email": "sardor@gmail.com",
+      "password": "$2a$10$dVBRNwoNAQn/RU2BRSIjxefdVkRl8h3DROMBePzWO2hbQBdC02U5.",
+      "name": "ssss",
+      "id": 9
+    }
+  ],
+  "messages": [
+    {
+      "name": "Product 1",
+      "id": "1"
+    },
+    {
+      "message": "lorem",
+      "id": "YD6MSQD"
+    },
+    {
+      "message": "lorem",
+      "id": "9MOt0NF"
+    },
+    {
+      "message": "aaaa",
+      "id": "WzhRMZD"
+    },
+    {
+      "name": "lorem",
+      "id": "ez_8RH4"
+    },
+    {
+      "name": "lorem",
+      "id": "dkaFoMN"
+    }
+  ]
+}
